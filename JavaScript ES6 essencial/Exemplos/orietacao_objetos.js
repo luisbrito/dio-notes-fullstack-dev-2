@@ -21,3 +21,18 @@
 (() => {
 
 })()
+
+const arr = [];
+
+
+arr.forEach((fruta, index, arr) => {
+
+});
+
+arr.map()
+
+arr.flat()
+
+var sum = (a , b) => {
+	return a + b;
+}
